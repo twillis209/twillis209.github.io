@@ -1,3 +1,5 @@
+% Journal
+
 # 2020
 
 ## December
