@@ -15,3 +15,4 @@
 * [3rd February](entries/030221.html)
 * [10th February](entries/100221.html)
 * [17th February](entries/170221.html)
+* [24th February](entries/240221.html)
