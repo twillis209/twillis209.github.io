@@ -14,10 +14,12 @@ Signal lies in PTPN22 and ...
 
 ## Chromosome 16
 
+CLEC16A and DEXI!
+
 ![](/images/030321/t1d_pid_backToBack_chr16_10_5M-11_5M.png)
 
 ## Chromosome 18
 
 PTPN2 again.
 
-![](/images/030321/t1d_pid_backToBack_chr18_12M-14M.png)
+![](/images/030321/t1d_pid_backToBack_chr18_12-14M.png)
