@@ -1,5 +1,7 @@
 # PID conditioned on UC
 
+![](/images/030321/uc_pid_backToBack.png)
+
 I see peaks at chromosomes 17 and 18. 
 
 ![](/images/030321/uc_pid_backToBack_chr17_18.png)
