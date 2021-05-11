@@ -1,6 +1,6 @@
 # GWS loci in fcFDR analysis
 
-Using the GWS threshold of 5e-8, I found 17 SNPs with a v-value below threshold. However, quite a few of these had high PID p-values; were we doing cFDR, these would not have met a typical threshold of, say, 1e-4, for inclusion in the fitting process and would have had their v-value defaulted to 1.
+Using the GWS threshold of 5e-8, I found 17 loci with a v-value below threshold. However, quite a few of the lead SNPs at these loci had high PID p-values. Were we doing cFDR, these would not have met a typical threshold of, say, 1e-4, for inclusion in the fitting process and would have had their v-value defaulted to 1. 
 
 | CHR38 |      BP38 | SNPID       |     v.ra | ALT_FREQ |    P.pid |   |
 |-------|-----------|-------------|----------|----------|----------|---|
