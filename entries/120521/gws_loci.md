@@ -38,6 +38,8 @@ Thaventhiran performed a fixed effect meta-analysis of their AD-PID intermediate
 
 The second and third plots below show our recovering the same signals in CLEC16A and PTPN2, albeit at different SNPs; in particular, our lead SNP is inside PTPN2, whereas the meta-analysis SNP was between PSMG2 and PTPN2. I did not want to read too much into these things about the identity of the SNP, though; wouldn't we have to perform fine-mapping to get down to the causal variant?
 
+Correction to the above paragraph: the CLEC16A and PTPN2 
+
 ![](/images/120521/zoomed/rs78037977_chr1:172246562-173246562.png)
 
 CLEC16A variant
